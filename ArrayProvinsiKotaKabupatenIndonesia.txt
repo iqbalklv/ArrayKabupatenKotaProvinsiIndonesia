@@ -1,3 +1,6 @@
+//Modifikasi kotlin dari https://gist.github.com/achunk17/a1afbc712b963792017f
+//M. Iqbal Kalevi - Teknik Informatika 18 Universitas Brawijaya
+
 val itemsProv =
             arrayOf(
                 "Aceh",
